@@ -17,6 +17,6 @@ An attempt was made to visualize filter sensitivity using ([Keras: Convolution F
 
 And activations were visualized to a Crafstman home: 
 
-![Conv 1](rhttps://github.com/danverkamp/archlass/blob/master/reports/figures/conv_layer_1.png)
+![Conv 1](reports/figures/conv_layer_1.png)
 
 Project organization based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
