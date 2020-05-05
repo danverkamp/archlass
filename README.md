@@ -15,7 +15,7 @@ An attempt was made to visualize filter sensitivity using ([Keras: Convolution F
 
 ![Filter Sensitivity](reports/figures/model_conv2d_2_3x3.png)
 
-And activations were visualized to a Crafstman home: 
+And activations were visualized to a Crafstman home.  Here are the activations of the first convoluational layer, as an example: 
 
 ![Conv 1](reports/figures/conv_layer_1.png)
 
